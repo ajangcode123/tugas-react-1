@@ -1,0 +1,65 @@
+.container {
+  text-align: center;
+  padding: 20px;
+  font-family: "Arial", sans-serif;
+  background-color: green;
+  margin-left: 30%;
+  margin-right: 30%;
+  border-radius: 25px;
+}
+
+.biodata {
+  background-color: greenyellow;
+  border-radius: 25px;
+}
+
+.title {
+  color: greenyellow;
+}
+
+.profile-image {
+  width: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+.name{
+  padding-top: 0px;
+}
+
+.name {
+  margin-top: 0;
+}
+
+h2 {
+  padding-top: 20px;
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+p{
+  font-size: 16px;
+  color: #666;
+  margin: 5px 0;
+}
+
+.hobbies {
+  margin-top: 20px;
+}
+
+.hobby-button {
+  color: greenyellow;
+  background-color: green;
+  border: none;
+  border-radius: 15px;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.hobby-button:hover {
+  color: darkslategray;
+}
